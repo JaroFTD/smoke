@@ -1142,6 +1142,12 @@ body._lock {
   min-height: 8.75rem;
 }
 
+.visually-hidden {
+  position: fixed;
+  -webkit-transform: scale(0);
+          transform: scale(0);
+}
+
 .header {
   position: fixed;
   z-index: 50;
