@@ -1,4 +1,4 @@
-<h1><a href="https://jaroftd.github.io/smoke/" target="_blank">Одностраничный сайт</a> кальянной</h1>
+<h1><a href="https://jaroftd.github.io/smoke/">Одностраничный сайт</a> кальянной</h1>
 <ul>
   <li>Дизайн;</li>
   <li>Адаптив до 320px;</li>
